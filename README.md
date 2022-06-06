@@ -15,6 +15,8 @@ http://efening0507.blogspot.com/2017/03/blog-post_16.html
 
 ## SS
 
+https://m.blog.naver.com/wldms3040
+
 ## TODO
 
 EPUB 으로 제작하기
