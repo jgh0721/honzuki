@@ -20,7 +20,7 @@
 project = '귀족원 외전 1학년'
 copyright = '2022, DevTester'
 author = 'DevTester'
-
+version = '1.0'
 
 # -- General configuration ---------------------------------------------------
 
