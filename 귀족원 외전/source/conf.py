@@ -19,7 +19,7 @@
 
 project = '귀족원 외전 1학년'
 copyright = '2022, DevTester'
-author = 'DevTester'
+author = '香月美夜'
 version = '1.0'
 
 # -- General configuration ---------------------------------------------------
@@ -44,6 +44,15 @@ language = 'ko'
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
+
+rst_prolog = """
+.. role:: raw-html(raw)
+    :format: html
+
+.. |br| raw:: html
+
+  <br/>
+"""
 
 
 # -- Options for HTML output -------------------------------------------------
