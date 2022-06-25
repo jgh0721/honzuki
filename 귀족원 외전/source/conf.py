@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '귀족원 외전 1학년'
+project = u'귀족원 외전 1학년'
 copyright = '2022, DevTester'
 author = '香月美夜'
 version = '1.0'
@@ -70,3 +70,5 @@ html_static_path = ['_static']
 epub_theme = 'epub'
 
 epub_cover = ('_static/Cover.png', '')
+
+epub_use_index = False
