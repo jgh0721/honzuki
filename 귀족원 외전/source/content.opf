@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="ko"
+ unique-identifier="unknown"
+ prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf"
+        xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:language>ko</dc:language>
+    <dc:title>귀족원 외전 1학년</dc:title>
+    <dc:description>unknown</dc:description>
+    <dc:creator>香月美夜</dc:creator>
+    <dc:contributor>unknown</dc:contributor>
+    <dc:publisher>香月美夜</dc:publisher>
+    <dc:rights>2022, DevTester</dc:rights>
+    <dc:identifier id="unknown">unknown</dc:identifier>
+    <dc:date>2022-06-26T07:35:02Z</dc:date>
+    <meta property="dcterms:modified">2022-06-26T07:35:02Z</meta>
+    <meta property="ibooks:version">1.0</meta>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="ibooks:binding">true</meta>
+    <meta property="ibooks:scroll-axis">vertical</meta>
+    <meta name="cover" content="epub-30"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="epub-0" href="index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-1" href="프롤로그.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-2" href="코르넬리우스 시점, 호위기사로서, 오빠로서.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-3" href="로데리히 시점, 귀족원의 어느 하루.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-4" href="한넬로레 시점, 혼잣말이 빚어낸 디터.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-5" href="루펜 시점, 멋지구나 디터.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-6" href="빌프리트 시점, 우아할 수 없는 귀족원 생활.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-7" href="한넬로레 시점, 시운이 나쁩니다.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-8" href="빌프리트 시점, 여자의 다과회.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-9" href="안게리카 시점, 신전의 호위기사.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-10" href="유디트 시점, 남겨진 호위기사.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-11" href="하르트무트 시점, 단켈페르거의 여자.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-12" href="빌프리트 시점, 남자의 사교.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-13" href="트라우고트 시점, 예상이상의 심한 벌.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-14" href="빌프리트 시점, 숙부님의 측근.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-15" href="한넬로레 시점, 에렌페스트의 다과회.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-16" href="오르트빈 시점, 드레반헬의 남매.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-17" href="한넬로레 시점, 에렌페스트의 책.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-18" href="솔랑쥬 시점, 폐가식 서고와 낡은 일지.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-19" href="_images/드레반헬의남매.jpg" media-type="image/jpeg" />
+    <item id="epub-20" href="_images/로데리히시점,귀족원의어느하루.jpg" media-type="image/jpeg" />
+    <item id="epub-21" href="_images/루펜시점,멋지구나디터.jpg" media-type="image/jpeg" />
+    <item id="epub-22" href="_images/빌프리트시점,남자의사교.jpg" media-type="image/jpeg" />
+    <item id="epub-23" href="_images/빌프리트시점,여자의다과회.jpg" media-type="image/jpeg" />
+    <item id="epub-24" href="_images/솔랑쥬시점,폐가식서고와낡은일지.jpg" media-type="image/jpeg" />
+    <item id="epub-25" href="_images/안게리카시점,신전의호위기사.jpg" media-type="image/jpeg" />
+    <item id="epub-26" href="_images/트라우고트시점,예상이상의심한벌.jpg" media-type="image/jpeg" />
+    <item id="epub-27" href="_images/하르트무트시점,단켈페르거의여자.jpg" media-type="image/jpeg" />
+    <item id="epub-28" href="_images/한넬로레시점,에렌페스트의다과회.jpg" media-type="image/jpeg" />
+    <item id="epub-29" href="_images/한넬로레시점,혼잣말이빚어낸디터.jpg" media-type="image/jpeg" />
+    <item id="epub-30" href="_static/Cover.png" media-type="image/png" />
+    <item id="epub-31" href="_static/basic.css" media-type="text/css" />
+    <item id="epub-32" href="_static/epub.css" media-type="text/css" />
+    <item id="epub-33" href="_static/file.png" media-type="image/png" />
+    <item id="epub-34" href="_static/minus.png" media-type="image/png" />
+    <item id="epub-35" href="_static/plus.png" media-type="image/png" />
+    <item id="epub-36" href="_static/pygments.css" media-type="text/css" />
+    <item id="epub-37" href="_static/드레반헬의남매.jpg" media-type="image/jpeg" />
+    <item id="epub-38" href="_static/로데리히시점,귀족원의어느하루.jpg" media-type="image/jpeg" />
+    <item id="epub-39" href="_static/루펜시점,멋지구나디터.jpg" media-type="image/jpeg" />
+    <item id="epub-40" href="_static/빌프리트시점,남자의사교.jpg" media-type="image/jpeg" />
+    <item id="epub-41" href="_static/빌프리트시점,여자의다과회.jpg" media-type="image/jpeg" />
+    <item id="epub-42" href="_static/솔랑쥬시점,폐가식서고와낡은일지.jpg" media-type="image/jpeg" />
+    <item id="epub-43" href="_static/안게리카시점,신전의호위기사.jpg" media-type="image/jpeg" />
+    <item id="epub-44" href="_static/트라우고트시점,예상이상의심한벌.jpg" media-type="image/jpeg" />
+    <item id="epub-45" href="_static/하르트무트시점,단켈페르거의여자.jpg" media-type="image/jpeg" />
+    <item id="epub-46" href="_static/한넬로레시점,에렌페스트의다과회.jpg" media-type="image/jpeg" />
+    <item id="epub-47" href="_static/한넬로레시점,혼잣말이빚어낸디터.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx" page-progression-direction="ltr">
+    <itemref idref="epub-0" />
+    <itemref idref="epub-48" />
+    <itemref idref="epub-49" />
+    <itemref idref="epub-50" />
+    <itemref idref="epub-51" />
+    <itemref idref="epub-52" />
+    <itemref idref="epub-53" />
+    <itemref idref="epub-54" />
+    <itemref idref="epub-55" />
+    <itemref idref="epub-56" />
+    <itemref idref="epub-57" />
+    <itemref idref="epub-58" />
+    <itemref idref="epub-59" />
+    <itemref idref="epub-60" />
+    <itemref idref="epub-61" />
+    <itemref idref="epub-62" />
+    <itemref idref="epub-63" />
+    <itemref idref="epub-64" />
+    <itemref idref="epub-65" />
+    <itemref idref="epub-1" linear="no" />
+    <itemref idref="epub-2" linear="no" />
+    <itemref idref="epub-3" linear="no" />
+    <itemref idref="epub-4" linear="no" />
+    <itemref idref="epub-5" linear="no" />
+    <itemref idref="epub-6" linear="no" />
+    <itemref idref="epub-7" linear="no" />
+    <itemref idref="epub-8" linear="no" />
+    <itemref idref="epub-9" linear="no" />
+    <itemref idref="epub-10" linear="no" />
+    <itemref idref="epub-11" linear="no" />
+    <itemref idref="epub-12" linear="no" />
+    <itemref idref="epub-13" linear="no" />
+    <itemref idref="epub-14" linear="no" />
+    <itemref idref="epub-15" linear="no" />
+    <itemref idref="epub-16" linear="no" />
+    <itemref idref="epub-17" linear="no" />
+    <itemref idref="epub-18" linear="no" />
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="index.xhtml" />
+  </guide>
+</package>
