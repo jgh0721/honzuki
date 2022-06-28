@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = '오피셜 팬북'
-copyright = '2022, DevTester'
+copyright = '香月美夜'
 author = '香月美夜'
 version = '1.0'
 
@@ -69,4 +69,4 @@ html_static_path = ['_static']
 
 epub_theme = 'epub'
 
-epub_cover = ('_static/Cover.png', '')
+epub_cover = ('_static/Book1-Cover.png', '')
