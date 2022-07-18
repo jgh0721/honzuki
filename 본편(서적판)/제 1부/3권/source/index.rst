@@ -3,7 +3,7 @@
 
 .. image:: _static/Cover.png
 
-.. toctree::
+…… toctree::
    :maxdepth: 3
 
    변하지 않는 일상
