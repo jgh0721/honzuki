@@ -46,10 +46,10 @@ language = 'ko'
 exclude_patterns = []
 
 rst_prolog = """
-…… role:: raw-html(raw)
+.. role:: raw-html(raw)
     :format: html
 
-…… |br| raw:: html
+.. |br| raw:: html
 
   <br/>
 """

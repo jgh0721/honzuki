@@ -1,9 +1,9 @@
-귀족원 외전 1학년
+병사의 딸 - 2권
 =================
 
 .. image:: _static/Cover.png
 
-…… toctree::
+.. toctree::
    :maxdepth: 3
 
    하극상 1부 2권
