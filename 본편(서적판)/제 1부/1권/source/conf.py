@@ -76,4 +76,4 @@ html_static_path = ['_static']
 
 epub_theme = 'epub'
 
-epub_cover = ('_static/Cover.png', '')
+epub_cover = ('_static/Cover.jpg', '')
