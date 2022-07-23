@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '병사의 딸, 1권'
+project = '병사의 딸, 3권'
 copyright = '2022, DevTester'
 author = '香月美夜'
 version = '1.0'

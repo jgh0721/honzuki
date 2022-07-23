@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="ko"
+ unique-identifier="unknown"
+ prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf"
+        xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:language>ko</dc:language>
+    <dc:title>병사의 딸, 3권</dc:title>
+    <dc:description>unknown</dc:description>
+    <dc:creator>香月美夜</dc:creator>
+    <dc:contributor>unknown</dc:contributor>
+    <dc:publisher>香月美夜</dc:publisher>
+    <dc:rights>2022, DevTester</dc:rights>
+    <dc:identifier id="unknown">unknown</dc:identifier>
+    <dc:date>2022-07-23T09:09:31Z</dc:date>
+    <meta property="dcterms:modified">2022-07-23T09:09:31Z</meta>
+    <meta property="ibooks:version">1.0</meta>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="ibooks:binding">true</meta>
+    <meta property="ibooks:scroll-axis">vertical</meta>
+    <meta name="cover" content="epub-23"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="epub-0" href="index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-1" href="하극상 1부 3권.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-2" href="BD TO북스 특전, 투리 시점, 신전으로부터의 호출과 나의 본심.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-3" href="_images/040.png" media-type="image/png" />
+    <item id="epub-4" href="_images/126.png" media-type="image/png" />
+    <item id="epub-5" href="_images/182.png" media-type="image/png" />
+    <item id="epub-6" href="_images/243.png" media-type="image/png" />
+    <item id="epub-7" href="_images/296.png" media-type="image/png" />
+    <item id="epub-8" href="_images/346.png" media-type="image/png" />
+    <item id="epub-9" href="_images/387.png" media-type="image/png" />
+    <item id="epub-10" href="_images/419.png" media-type="image/png" />
+    <item id="epub-11" href="_images/450.png" media-type="image/png" />
+    <item id="epub-12" href="_static/001.png" media-type="image/png" />
+    <item id="epub-13" href="_static/040.png" media-type="image/png" />
+    <item id="epub-14" href="_static/126.png" media-type="image/png" />
+    <item id="epub-15" href="_static/182.png" media-type="image/png" />
+    <item id="epub-16" href="_static/243.png" media-type="image/png" />
+    <item id="epub-17" href="_static/296.png" media-type="image/png" />
+    <item id="epub-18" href="_static/346.png" media-type="image/png" />
+    <item id="epub-19" href="_static/387.png" media-type="image/png" />
+    <item id="epub-20" href="_static/419.png" media-type="image/png" />
+    <item id="epub-21" href="_static/450.png" media-type="image/png" />
+    <item id="epub-22" href="_static/Cover.jpg" media-type="image/jpeg" />
+    <item id="epub-23" href="_static/basic.css" media-type="text/css" />
+    <item id="epub-24" href="_static/epub.css" media-type="text/css" />
+    <item id="epub-25" href="_static/file.png" media-type="image/png" />
+    <item id="epub-26" href="_static/minus.png" media-type="image/png" />
+    <item id="epub-27" href="_static/plus.png" media-type="image/png" />
+    <item id="epub-28" href="_static/pygments.css" media-type="text/css" />
+  </manifest>
+  <spine toc="ncx" page-progression-direction="ltr">
+    <itemref idref="epub-0" /> index
+    <itemref idref="epub-30" />
+    <itemref idref="epub-31" />
+    <itemref idref="epub-1" linear="no" />
+    <itemref idref="epub-2" linear="no" />
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="index.xhtml" />
+  </guide>
+</package>
