@@ -46,8 +46,6 @@ https://gall.dcinside.com/mgallery/board/view/?id=bookworm&no=17577&search_head=
 
 https://gall.dcinside.com/mgallery/board/view/?id=bookworm&no=17609&search_head=70&page=1
 
-https://gall.dcinside.com/mgallery/board/view/?id=bookworm&no=17732&search_head=70&page=1
-
 https://gall.dcinside.com/mgallery/board/view/?id=bookworm&no=18000&search_head=70&page=1
 
 https://gall.dcinside.com/mgallery/board/view/?id=bookworm&no=18395&search_head=70&page=1
@@ -66,16 +64,10 @@ https://gall.dcinside.com/mgallery/board/view/?id=bookworm&no=19457&search_head=
 
 https://gall.dcinside.com/mgallery/board/view/?id=bookworm&no=20632&search_head=70&page=1
 
-https://gall.dcinside.com/mgallery/board/view/?id=bookworm&no=20788&search_head=70&page=1
-
 https://gall.dcinside.com/mgallery/board/view/?id=bookworm&no=20839&search_head=70&page=1
 
 https://gall.dcinside.com/mgallery/board/view/?id=bookworm&no=20971&search_head=70&page=1
 
-https://gall.dcinside.com/mgallery/board/view/?id=bookworm&no=21195&search_head=70&page=1
-
 https://gall.dcinside.com/mgallery/board/view/?id=bookworm&no=15034&s_type=search_subject&s_keyword=%EB%88%84%EB%9D%BD&page=1
-
-https://gall.dcinside.com/mgallery/board/view/?id=bookworm&no=12561&s_type=search_subject&s_keyword=%EB%88%84%EB%9D%BD&page=1
 
 https://gall.dcinside.com/mgallery/board/view/?id=bookworm&no=19719&s_type=search_subject&s_keyword=%EC%98%A4%EC%97%AD&page=1
